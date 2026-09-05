@@ -1,6 +1,7 @@
 # Implementation of Erosion and Dilation Using OpenCV
-#Developed by : Sivakarthikeyan V 
-#ref no : 212225220098
+**Developed by : Sivakarthikeyan V**
+
+**Ref no : 212225220098**
 ## Aim
 
 To write a Python program using OpenCV to perform morphological operations such as Erosion and Dilation on an image.
